@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/Prabash89/gitops-repo.git
     targetRevision: main
-    path: apps/sample-app
+    path: apps
 
   destination:
     server: https://kubernetes.default.svc

@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: sample-app
-          image: 495294314260.dkr.ecr.us-east-1.amazonaws.com/sample-app:a4d513f
+          image: 495294314260.dkr.ecr.us-east-1.amazonaws.com/sample-app:f484796
           ports:
             - containerPort: 80
